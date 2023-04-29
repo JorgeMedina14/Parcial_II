@@ -1,0 +1,15 @@
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\MainWindow.baml
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\App.g.cs
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial_MarkupCompile.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.g.resources
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.csproj.GenerateResource.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\jorge\Escritorio\Universidad\UMG3\Programacion I\Parcial\Parcial\obj\Debug\Parcial.pdb
